@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MemeShare" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimaryDark">#EE6266BB</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimary">#F231237D</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
